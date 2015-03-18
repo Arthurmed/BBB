@@ -1,0 +1,17 @@
+<launch>
+
+    <node
+        pkg="aristarko"
+        type="vn200"
+        name="vn200"
+
+    />
+
+    <node
+        pkg="aristarko"
+        type="radio.py"
+        name="radio"
+
+    />
+
+</launch>

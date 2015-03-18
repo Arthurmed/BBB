@@ -1,0 +1,3 @@
+uint8 GPSFIX
+uint8 INSTATUS
+uint8 INSGPS
